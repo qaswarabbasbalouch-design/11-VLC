@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <rect width="128" height="128" rx="28" fill="#070B14"/>
+  <circle cx="64" cy="64" r="56" stroke="#00B4D8" stroke-width="2" stroke-opacity="0.4" fill="#0D1527"/>
+  <!-- Glowing cone base -->
+  <polygon points="28,94 100,94 88,86 40,86" fill="#F59E0B" fill-opacity="0.8"/>
+  <polygon points="40,86 88,86 80,62 48,62" fill="#00B4D8" fill-opacity="0.8"/>
+  <polygon points="48,62 80,62 74,40 54,40" fill="#F59E0B" fill-opacity="0.8"/>
+  <polygon points="54,40 74,40 68,26 60,26" fill="#38BDF8" fill-opacity="0.9"/>
+  <!-- Center Play glyph -->
+  <circle cx="64" cy="68" r="16" fill="#F59E0B" fill-opacity="0.9"/>
+  <polygon points="60,60 72,68 60,76" fill="#FFFFFF"/>
+</svg>

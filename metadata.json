@@ -1,0 +1,6 @@
+{
+  "name": "VLC 11 Player",
+  "description": "Modern Windows x64 desktop media player with advanced video/audio playback, playlist management, equalizer, subtitles, and GitHub Actions installer builds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
